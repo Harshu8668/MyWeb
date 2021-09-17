@@ -1,0 +1,42 @@
+ .bg{
+	 background-color: lightblue;
+	 }
+ #slider .carousel-caption{ 
+	bottom:50%;
+ } 
+
+#slider .carousel-inner{
+	height:40vw;
+	
+}
+h1 {
+ text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+*{
+	box-sizing:border-box;
+}
+
+#about .container{
+	padding:10px 10px 10px;
+	height:50%;
+	width:60%;
+	border-collapse:collapse;
+} 
+.homelist{
+	margin-left:600px;
+}
+.navf{font-size:20px;}
+.font{font-size:30px;}
+
+.text{color:white;}
+
+.zoom{
+	transition: transform(1s);
+}
+.zoom:hover{
+	opacity:0.5;
+}
+.action_page{
+	margin-left:400px;
+}
